@@ -35,5 +35,14 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MartaRueda/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MartaRueda/MartaRueda/output/snake.svg" alt="Snake animation" />
+
+###
 
 
