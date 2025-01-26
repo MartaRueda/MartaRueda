@@ -41,8 +41,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MartaRueda/MartaRueda/output/snake.svg" alt="Snake animation" />
-
-###
-
 
